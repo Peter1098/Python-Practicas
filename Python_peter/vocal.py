@@ -2,6 +2,7 @@
 #y luego una letra en mayúsculas. El programa debe convertir la letra en minúscula y la vocal en mayúscula,
 # y al final, deben ser concatenadas ambas
 
+print("Programa para vocal y consonante")
 vocal=input("ingrese una vocal en minuscula \n")
 letra=input("ingrese una letra en MAYUSCULA \n")
 
